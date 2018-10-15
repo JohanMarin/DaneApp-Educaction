@@ -1,0 +1,12 @@
+name: DaneApp-Edcucation
+title: DaneApp-Edcucation
+username:
+account: johanmarin
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 514141
+bundleId: 1642893
+url: https://johanmarin.shinyapps.io/DaneApp-Edcucation/
+when: 1539573867.26595
+asMultiple: FALSE
+asStatic: FALSE
