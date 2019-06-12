@@ -1,6 +1,8 @@
 # AppColEd
 En esta aplicación se puede visualizar información a cerca de la educación basica presscolar primaria y secundaria.
 
+![pantallaso](https://raw.githubusercontent.com/johanmarin/AppColEd/master/screenshot.png)
+
 Para visualizar la app en su computador solo necesita copiar y pegar el siguiente codigo en la consola de Rstudio.
 ```r
 shiny::runGitHub("AppColEd", "johanmarin", subdir = "App", launch.browser= TRUE)
